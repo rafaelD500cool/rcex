@@ -1,0 +1,227 @@
+[17:46:50] ==================================================
+[17:46:50]   Browser Launcher Service starting...
+[17:46:50] ==================================================
+[17:46:50] [ngrok] pyngrok not installed � skipping tunnel. Run: pip install pyngrok
+[17:46:50] server listening on 0.0.0.0:6789
+[17:46:50] [WS] Server listening on ws://0.0.0.0:6789
+[17:46:50] [WS] Local IP: 10.0.0.41:6789
+[17:47:10] KeyboardInterrupt received.
+[17:47:10] Service stopped.
+[17:47:10] Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<IocpProactor.accept.<locals>.accept_coro() done, defined at C:\Users\rafae\AppData\Local\Programs\Python\Python314\Lib\asyncio\windows_events.py:564> wait_for=<_OverlappedFuture cancelled>>
+[17:48:10] ==================================================
+[17:48:10]   Browser Launcher Service starting...
+[17:48:10] ==================================================
+[17:48:10] Opening tunnel named: tcp-6789-02b798cd-982a-4d36-963d-53985db75c70
+[17:48:14] [ngrok] Failed to start tunnel: [WinError 5] Access is denied
+[17:48:14] [ngrok] If you haven't set an auth token, run: ngrok config add-authtoken <your_token>
+[17:48:14] server listening on 0.0.0.0:6789
+[17:48:14] [WS] Server listening on ws://0.0.0.0:6789
+[17:48:14] [WS] Local IP: 10.0.0.41:6789
+[17:48:27] KeyboardInterrupt received.
+[17:48:27] Service stopped.
+[17:48:27] Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<IocpProactor.accept.<locals>.accept_coro() done, defined at C:\Users\rafae\AppData\Local\Programs\Python\Python314\Lib\asyncio\windows_events.py:564> wait_for=<_OverlappedFuture cancelled>>
+[17:48:30] ==================================================
+[17:48:30]   Browser Launcher Service starting...
+[17:48:30] ==================================================
+[17:48:30] Opening tunnel named: tcp-6789-9fa5a1a3-d62c-49de-a722-5acadfd118f0
+[17:48:30] t=2026-05-17T17:48:30-0400 lvl=info msg="no configuration paths supplied"
+[17:48:30] t=2026-05-17T17:48:30-0400 lvl=info msg="using configuration at default config path" path=C:\\Users\\rafae\\AppData\\Local\\ngrok\\ngrok.yml
+[17:48:30] t=2026-05-17T17:48:30-0400 lvl=info msg="open config file" path=C:\\Users\\rafae\\AppData\\Local\\ngrok\\ngrok.yml err=nil
+[17:48:30] t=2026-05-17T17:48:30-0400 lvl=info msg="FIPS 140 mode" enabled=false
+[17:48:30] t=2026-05-17T17:48:30-0400 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+[17:48:33] t=2026-05-17T17:48:33-0400 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="authentication failed: Usage of ngrok requires a verified account and authtoken.\n\nSign up for an account: https://dashboard.ngrok.com/signup\nInstall your authtoken: https://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_4018\r\n"
+[17:48:33] t=2026-05-17T17:48:33-0400 lvl=eror msg="session closing" obj=tunnels.session err="authentication failed: Usage of ngrok requires a verified account and authtoken.\n\nSign up for an account: https://dashboard.ngrok.com/signup\nInstall your authtoken: https://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_4018\r\n"
+[17:48:33] t=2026-05-17T17:48:33-0400 lvl=info msg="received stop request" obj=app stopReq="{err:{Remote:true Inner:{Inner:0x248d3a22e120}} restart:false}"
+[17:48:33] t=2026-05-17T17:48:33-0400 lvl=eror msg="terminating with error" obj=app err="authentication failed: Usage of ngrok requires a verified account and authtoken.\n\nSign up for an account: https://dashboard.ngrok.com/signup\nInstall your authtoken: https://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_4018\r\n"
+[17:48:33] t=2026-05-17T17:48:33-0400 lvl=crit msg="command failed" err="authentication failed: Usage of ngrok requires a verified account and authtoken.\n\nSign up for an account: https://dashboard.ngrok.com/signup\nInstall your authtoken: https://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_4018\r\n"
+[17:48:33] [ngrok] Failed to start tunnel: The ngrok process errored on start: authentication failed: Usage of ngrok requires a verified account and authtoken.\n\nSign up for an account: https://dashboard.ngrok.com/signup\nInstall your authtoken: https://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_4018\r\n.
+[17:48:33] [ngrok] If you haven't set an auth token, run: ngrok config add-authtoken <your_token>
+[17:48:33] server listening on 0.0.0.0:6789
+[17:48:33] [WS] Server listening on ws://0.0.0.0:6789
+[17:48:33] [WS] Local IP: 10.0.0.41:6789
+[17:50:53] KeyboardInterrupt received.
+[17:50:53] Service stopped.
+[17:50:53] Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<IocpProactor.accept.<locals>.accept_coro() done, defined at C:\Users\rafae\AppData\Local\Programs\Python\Python314\Lib\asyncio\windows_events.py:564> wait_for=<_OverlappedFuture cancelled>>
+[17:51:22] ==================================================
+[17:51:22]   Browser Launcher Service starting...
+[17:51:22] ==================================================
+[17:51:22] Opening tunnel named: tcp-6789-97a5e9b1-b727-4827-85cc-658964ef4f62
+[17:51:23] t=2026-05-17T17:51:23-0400 lvl=info msg="no configuration paths supplied"
+[17:51:23] t=2026-05-17T17:51:23-0400 lvl=info msg="using configuration at default config path" path=C:\\Users\\rafae\\AppData\\Local\\ngrok\\ngrok.yml
+[17:51:23] t=2026-05-17T17:51:23-0400 lvl=info msg="open config file" path=C:\\Users\\rafae\\AppData\\Local\\ngrok\\ngrok.yml err=nil
+[17:51:23] t=2026-05-17T17:51:23-0400 lvl=info msg="FIPS 140 mode" enabled=false
+[17:51:23] t=2026-05-17T17:51:23-0400 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+[17:51:23] t=2026-05-17T17:51:23-0400 lvl=info msg="client session established" obj=tunnels.session
+[17:51:23] t=2026-05-17T17:51:23-0400 lvl=info msg="tunnel session started" obj=tunnels.session
+[17:51:23] t=2026-05-17T17:51:23-0400 lvl=info msg=start pg=/api/tunnels id=460fd8ed356316df
+[17:51:23] t=2026-05-17T17:51:23-0400 lvl=info msg=end pg=/api/tunnels id=460fd8ed356316df status=200 dur=1.3797ms
+[17:51:23] t=2026-05-17T17:51:23-0400 lvl=info msg=start pg=/api/tunnels id=6198fc68f1592105
+[17:51:23] t=2026-05-17T17:51:23-0400 lvl=info msg=end pg=/api/tunnels id=6198fc68f1592105 status=200 dur=515.7µs
+[17:51:23] t=2026-05-17T17:51:23-0400 lvl=info msg=start pg=/api/tunnels id=93088ad4c3431d31
+[17:51:23] t=2026-05-17T17:51:23-0400 lvl=info msg=end pg=/api/tunnels id=93088ad4c3431d31 status=200 dur=0s
+[17:51:23] t=2026-05-17T17:51:23-0400 lvl=info msg=start pg=/api/tunnels id=515e5553624c3094
+[17:51:24] t=2026-05-17T17:51:24-0400 lvl=warn msg="failed to start tunnel" pg=/api/tunnels id=515e5553624c3094 err="failed to start tunnel: You must add a credit or debit card before you can use TCP endpoints on a free account. We require a valid card as a way to combat abuse and keep the internet a safe place. This card will NOT be charged.\nAdd a card to your account here: https://dashboard.ngrok.com/settings#id-verification.\r\n\r\nERR_NGROK_8013\r\n"
+[17:51:24] t=2026-05-17T17:51:24-0400 lvl=info msg=end pg=/api/tunnels id=515e5553624c3094 status=502 dur=86.4955ms
+[17:51:24] [ngrok] Failed to start tunnel: ngrok client exception, API returned 502: {"error_code":103,"status_code":502,"msg":"failed to start tunnel","details":{"err":"failed to start tunnel: You must add a credit or debit card before you can use TCP endpoints on a free account. We require a valid card as a way to combat abuse and keep the internet a safe place. This card will NOT be charged.\nAdd a card to your account here: https://dashboard.ngrok.com/settings#id-verification.\r\n\r\nERR_NGROK_8013\r\n"}}
+
+[17:51:24] [ngrok] If you haven't set an auth token, run: ngrok config add-authtoken <your_token>
+[17:51:24] server listening on 0.0.0.0:6789
+[17:51:24] [WS] Server listening on ws://0.0.0.0:6789
+[17:51:24] [WS] Local IP: 10.0.0.41:6789
+[17:52:20] KeyboardInterrupt received.
+[17:52:20] Service stopped.
+[17:52:20] Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<IocpProactor.accept.<locals>.accept_coro() done, defined at C:\Users\rafae\AppData\Local\Programs\Python\Python314\Lib\asyncio\windows_events.py:564> wait_for=<_OverlappedFuture cancelled>>
+[17:53:48] ==================================================
+[17:53:48]   Browser Launcher Service starting...
+[17:53:48] ==================================================
+[17:53:48] Opening tunnel named: tcp-6789-32a93838-6708-47ff-8213-cb244c9f0bde
+[17:53:49] t=2026-05-17T17:53:49-0400 lvl=info msg="no configuration paths supplied"
+[17:53:49] t=2026-05-17T17:53:49-0400 lvl=info msg="using configuration at default config path" path=C:\\Users\\rafae\\AppData\\Local\\ngrok\\ngrok.yml
+[17:53:49] t=2026-05-17T17:53:49-0400 lvl=info msg="open config file" path=C:\\Users\\rafae\\AppData\\Local\\ngrok\\ngrok.yml err=nil
+[17:53:49] t=2026-05-17T17:53:49-0400 lvl=info msg="FIPS 140 mode" enabled=false
+[17:53:49] t=2026-05-17T17:53:49-0400 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+[17:53:49] t=2026-05-17T17:53:49-0400 lvl=info msg="client session established" obj=tunnels.session
+[17:53:49] t=2026-05-17T17:53:49-0400 lvl=info msg="tunnel session started" obj=tunnels.session
+[17:53:50] t=2026-05-17T17:53:50-0400 lvl=info msg=start pg=/api/tunnels id=06aa5ca36a17db57
+[17:53:50] t=2026-05-17T17:53:50-0400 lvl=info msg=end pg=/api/tunnels id=06aa5ca36a17db57 status=200 dur=394.9µs
+[17:53:50] t=2026-05-17T17:53:50-0400 lvl=info msg=start pg=/api/tunnels id=5181ec64f6993bf0
+[17:53:50] t=2026-05-17T17:53:50-0400 lvl=info msg=end pg=/api/tunnels id=5181ec64f6993bf0 status=200 dur=832.5µs
+[17:53:50] t=2026-05-17T17:53:50-0400 lvl=info msg=start pg=/api/tunnels id=770b06ef901328d9
+[17:53:50] t=2026-05-17T17:53:50-0400 lvl=info msg=end pg=/api/tunnels id=770b06ef901328d9 status=200 dur=0s
+[17:53:50] t=2026-05-17T17:53:50-0400 lvl=info msg=start pg=/api/tunnels id=4f368bdd16869c57
+[17:53:50] t=2026-05-17T17:53:50-0400 lvl=warn msg="failed to start tunnel" pg=/api/tunnels id=4f368bdd16869c57 err="failed to start tunnel: You must add a credit or debit card before you can use TCP endpoints on a free account. We require a valid card as a way to combat abuse and keep the internet a safe place. This card will NOT be charged.\nAdd a card to your account here: https://dashboard.ngrok.com/settings#id-verification.\r\n\r\nERR_NGROK_8013\r\n"
+[17:53:50] [ngrok] Failed to start tunnel: ngrok client exception, API returned 502: {"error_code":103,"status_code":502,"msg":"failed to start tunnel","details":{"err":"failed to start tunnel: You must add a credit or debit card before you can use TCP endpoints on a free account. We require a valid card as a way to combat abuse and keep the internet a safe place. This card will NOT be charged.\nAdd a card to your account here: https://dashboard.ngrok.com/settings#id-verification.\r\n\r\nERR_NGROK_8013\r\n"}}
+
+[17:53:50] [ngrok] If you haven't set an auth token, run: ngrok config add-authtoken <your_token>
+[17:53:50] t=2026-05-17T17:53:50-0400 lvl=info msg=end pg=/api/tunnels id=4f368bdd16869c57 status=502 dur=79.1175ms
+[17:53:50] server listening on 0.0.0.0:6789
+[17:53:50] [WS] Server listening on ws://0.0.0.0:6789
+[17:53:50] [WS] Local IP: 10.0.0.41:6789
+[17:55:35] KeyboardInterrupt received.
+[17:55:35] Service stopped.
+[17:55:35] Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<IocpProactor.accept.<locals>.accept_coro() done, defined at C:\Users\rafae\AppData\Local\Programs\Python\Python314\Lib\asyncio\windows_events.py:564> wait_for=<_OverlappedFuture cancelled>>
+[18:07:54] ====================================================
+[18:07:54]   Browser Launcher Service starting
+[18:07:54] ====================================================
+[18:07:54] Opening tunnel named: http-8000-cbc5d544-989a-4a6a-9f87-ef5888a38b56
+[18:07:55] t=2026-05-17T18:07:55-0400 lvl=info msg="no configuration paths supplied"
+[18:07:55] t=2026-05-17T18:07:55-0400 lvl=info msg="using configuration at default config path" path=C:\\Users\\rafae\\AppData\\Local\\ngrok\\ngrok.yml
+[18:07:55] t=2026-05-17T18:07:55-0400 lvl=info msg="open config file" path=C:\\Users\\rafae\\AppData\\Local\\ngrok\\ngrok.yml err=nil
+[18:07:55] t=2026-05-17T18:07:55-0400 lvl=info msg="FIPS 140 mode" enabled=false
+[18:07:55] t=2026-05-17T18:07:55-0400 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+[18:07:55] t=2026-05-17T18:07:55-0400 lvl=info msg="client session established" obj=tunnels.session
+[18:07:55] t=2026-05-17T18:07:55-0400 lvl=info msg="tunnel session started" obj=tunnels.session
+[18:07:56] t=2026-05-17T18:07:56-0400 lvl=info msg=start pg=/api/tunnels id=b917d6dba473176a
+[18:07:56] t=2026-05-17T18:07:56-0400 lvl=info msg=end pg=/api/tunnels id=b917d6dba473176a status=200 dur=1.0187ms
+[18:07:56] t=2026-05-17T18:07:56-0400 lvl=info msg=start pg=/api/tunnels id=26783573328e3d72
+[18:07:56] t=2026-05-17T18:07:56-0400 lvl=info msg=end pg=/api/tunnels id=26783573328e3d72 status=200 dur=0s
+[18:07:56] t=2026-05-17T18:07:56-0400 lvl=info msg=start pg=/api/tunnels id=5a9c43f40993674d
+[18:07:56] t=2026-05-17T18:07:56-0400 lvl=info msg=end pg=/api/tunnels id=5a9c43f40993674d status=200 dur=601.4µs
+[18:07:56] t=2026-05-17T18:07:56-0400 lvl=info msg=start pg=/api/tunnels id=ababdc6abb9d63d6
+[18:07:56] t=2026-05-17T18:07:56-0400 lvl=info msg="started tunnel" obj=tunnels name=http-8000-cbc5d544-989a-4a6a-9f87-ef5888a38b56 addr=http://localhost:8000 url=https://dweller-entwine-unspoken.ngrok-free.dev
+[18:07:56] t=2026-05-17T18:07:56-0400 lvl=info msg=end pg=/api/tunnels id=ababdc6abb9d63d6 status=201 dur=446.8099ms
+[18:07:56] [Report] Hostname   : The_Laptop
+[18:07:56] [Report] Primary IP : 10.0.0.41
+[18:07:56] [Report] All IPs    : 10.0.0.41, 10.5.0.2, 127.0.0.1
+[18:07:56] [Report] ngrok URL  : https://dweller-entwine-unspoken.ngrok-free.dev
+[18:07:56] [Report]   curl http://10.0.0.41:8000/open
+[18:07:56] [Report]   curl http://10.5.0.2:8000/open
+[18:07:56] [Report]   curl http://127.0.0.1:8000/open
+[18:07:56] [Report]   curl https://dweller-entwine-unspoken.ngrok-free.dev/open
+[18:07:56] [Report]   irm https://dweller-entwine-unspoken.ngrok-free.dev/open  (PowerShell)
+[18:07:56] [Report] No --report-to set � skipping webhook. Pass a URL to enable.
+[18:10:53] t=2026-05-17T18:10:53-0400 lvl=info msg="received stop request" obj=app stopReq="{err:<nil> restart:false}"
+[18:10:53] t=2026-05-17T18:10:53-0400 lvl=info msg="session closing" obj=tunnels.session err=nil
+[18:10:53] t=2026-05-17T18:10:53-0400 lvl=info msg="accept failed" obj=tunnels.session obj=csess id=0c75177eece5 err="reconnecting session closed"
+[18:10:53] t=2026-05-17T18:10:53-0400 lvl=info msg="failed to accept connection: Listener closed" obj=tunnels.session clientid=0c2d230ebc75518da5cb7bff86b0ad8b
+[18:10:53] t=2026-05-17T18:10:53-0400 lvl=warn msg="Stopping forwarder" name=http-8000-cbc5d544-989a-4a6a-9f87-ef5888a38b56 acceptErr="failed to accept connection: Listener closed"
+[18:10:53] [ngrok] Tunnel closed.
+[18:10:53] Service stopped.
+[18:11:07] ====================================================
+[18:11:07]   Browser Launcher Service starting
+[18:11:07] ====================================================
+[18:11:07] Opening tunnel named: http-8000-d621225e-c194-418e-b273-8e4b73185513
+[18:11:08] t=2026-05-17T18:11:08-0400 lvl=info msg="no configuration paths supplied"
+[18:11:08] t=2026-05-17T18:11:08-0400 lvl=info msg="using configuration at default config path" path=C:\\Users\\rafae\\AppData\\Local\\ngrok\\ngrok.yml
+[18:11:08] t=2026-05-17T18:11:08-0400 lvl=info msg="open config file" path=C:\\Users\\rafae\\AppData\\Local\\ngrok\\ngrok.yml err=nil
+[18:11:08] t=2026-05-17T18:11:08-0400 lvl=info msg="FIPS 140 mode" enabled=false
+[18:11:08] t=2026-05-17T18:11:08-0400 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+[18:11:09] t=2026-05-17T18:11:09-0400 lvl=info msg="client session established" obj=tunnels.session
+[18:11:09] t=2026-05-17T18:11:09-0400 lvl=info msg="tunnel session started" obj=tunnels.session
+[18:11:09] t=2026-05-17T18:11:09-0400 lvl=info msg=start pg=/api/tunnels id=1ae8ec61bd4f9513
+[18:11:09] t=2026-05-17T18:11:09-0400 lvl=info msg=end pg=/api/tunnels id=1ae8ec61bd4f9513 status=200 dur=0s
+[18:11:09] t=2026-05-17T18:11:09-0400 lvl=info msg=start pg=/api/tunnels id=5e4872027351ca0b
+[18:11:09] t=2026-05-17T18:11:09-0400 lvl=info msg=end pg=/api/tunnels id=5e4872027351ca0b status=200 dur=0s
+[18:11:09] t=2026-05-17T18:11:09-0400 lvl=info msg=start pg=/api/tunnels id=df801f7ea51ee698
+[18:11:09] t=2026-05-17T18:11:09-0400 lvl=info msg=end pg=/api/tunnels id=df801f7ea51ee698 status=200 dur=0s
+[18:11:09] t=2026-05-17T18:11:09-0400 lvl=info msg=start pg=/api/tunnels id=fbb062516f12bf9d
+[18:11:09] t=2026-05-17T18:11:09-0400 lvl=info msg="started tunnel" obj=tunnels name=http-8000-d621225e-c194-418e-b273-8e4b73185513 addr=http://localhost:8000 url=https://dweller-entwine-unspoken.ngrok-free.dev
+[18:11:09] t=2026-05-17T18:11:09-0400 lvl=info msg=end pg=/api/tunnels id=fbb062516f12bf9d status=201 dur=390.2478ms
+[18:11:09] [ngrok]  Tunnel active: https://dweller-entwine-unspoken.ngrok-free.dev
+[18:11:10] [Report] Hostname   : The_Laptop
+[18:11:10] [Report] Primary IP : 10.0.0.41
+[18:11:10] [Report] All IPs    : 10.0.0.41, 10.5.0.2, 127.0.0.1
+[18:11:10] [Report] ngrok URL  : https://dweller-entwine-unspoken.ngrok-free.dev
+[18:11:10] [Report]   curl http://10.0.0.41:8000/open
+[18:11:10] [Report]   curl http://10.5.0.2:8000/open
+[18:11:10] [Report]   curl http://127.0.0.1:8000/open
+[18:11:10] [Report]   curl https://dweller-entwine-unspoken.ngrok-free.dev/open
+[18:11:10] [Report]   irm https://dweller-entwine-unspoken.ngrok-free.dev/open  (PowerShell)
+[18:11:10] [Report] No --report-to set � skipping webhook. Pass a URL to enable.
+[18:12:05] t=2026-05-17T18:12:05-0400 lvl=info msg="received stop request" obj=app stopReq="{err:<nil> restart:false}"
+[18:12:05] t=2026-05-17T18:12:05-0400 lvl=info msg="session closing" obj=tunnels.session err=nil
+[18:12:05] t=2026-05-17T18:12:05-0400 lvl=info msg="accept failed" obj=tunnels.session obj=csess id=12876529cf40 err="reconnecting session closed"
+[18:12:05] t=2026-05-17T18:12:05-0400 lvl=info msg="failed to accept connection: Listener closed" obj=tunnels.session clientid=408ffea0b525c40315254b95c3ac4c6c
+[18:12:05] t=2026-05-17T18:12:05-0400 lvl=warn msg="Stopping forwarder" name=http-8000-d621225e-c194-418e-b273-8e4b73185513 acceptErr="failed to accept connection: Listener closed"
+[18:12:05] t=2026-05-17T18:12:05-0400 lvl=warn msg="Error restarting forwarder" name=http-8000-d621225e-c194-418e-b273-8e4b73185513 err="failed to start tunnel: session closed"
+[18:12:05] t=2026-05-17T18:12:05-0400 lvl=info msg="no more state changes" obj=tunnels.session
+[18:12:06] [ngrok] Tunnel closed.
+[18:12:06] Service stopped.
+[18:22:07] ====================================================
+[18:22:08]   Browser Launcher Service starting
+[18:22:08] ====================================================
+[18:22:08] Opening tunnel named: http-8000-6ebb99c6-d6e0-4fd5-86b3-28cf88f25da7
+[18:22:08] t=2026-05-17T18:22:08-0400 lvl=info msg="no configuration paths supplied"
+[18:22:08] t=2026-05-17T18:22:08-0400 lvl=info msg="using configuration at default config path" path=C:\\Users\\rafae\\AppData\\Local\\ngrok\\ngrok.yml
+[18:22:08] t=2026-05-17T18:22:08-0400 lvl=info msg="open config file" path=C:\\Users\\rafae\\AppData\\Local\\ngrok\\ngrok.yml err=nil
+[18:22:08] t=2026-05-17T18:22:08-0400 lvl=info msg="FIPS 140 mode" enabled=false
+[18:22:08] t=2026-05-17T18:22:08-0400 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+[18:22:09] t=2026-05-17T18:22:09-0400 lvl=info msg="client session established" obj=tunnels.session
+[18:22:09] t=2026-05-17T18:22:09-0400 lvl=info msg="tunnel session started" obj=tunnels.session
+[18:22:09] t=2026-05-17T18:22:09-0400 lvl=info msg=start pg=/api/tunnels id=067da70a13d26a19
+[18:22:09] t=2026-05-17T18:22:09-0400 lvl=info msg=end pg=/api/tunnels id=067da70a13d26a19 status=200 dur=0s
+[18:22:09] t=2026-05-17T18:22:09-0400 lvl=info msg=start pg=/api/tunnels id=9f9b448414d568ea
+[18:22:09] t=2026-05-17T18:22:09-0400 lvl=info msg=end pg=/api/tunnels id=9f9b448414d568ea status=200 dur=389.3Âµs
+[18:22:09] t=2026-05-17T18:22:09-0400 lvl=info msg=start pg=/api/tunnels id=ee112a3de32eead0
+[18:22:09] t=2026-05-17T18:22:09-0400 lvl=info msg=end pg=/api/tunnels id=ee112a3de32eead0 status=200 dur=0s
+[18:22:09] t=2026-05-17T18:22:09-0400 lvl=info msg=start pg=/api/tunnels id=1abcafb6b92348f8
+[18:22:09] t=2026-05-17T18:22:09-0400 lvl=info msg="started tunnel" obj=tunnels name=http-8000-6ebb99c6-d6e0-4fd5-86b3-28cf88f25da7 addr=http://localhost:8000 url=https://dweller-entwine-unspoken.ngrok-free.dev
+[18:22:09] t=2026-05-17T18:22:09-0400 lvl=info msg=end pg=/api/tunnels id=1abcafb6b92348f8 status=201 dur=376.97ms
+[18:22:09] [ngrok] OK - Tunnel active: https://dweller-entwine-unspoken.ngrok-free.dev
+[18:22:09] [Report] --- Host info -----------------------------------
+[18:22:09] [Report] Hostname   : The_Laptop
+[18:22:09] [Report] Primary IP : 10.0.0.41
+[18:22:09] [Report] All IPs    : 10.0.0.41, 10.5.0.2, 127.0.0.1
+[18:22:09] [Report] ngrok URL  : https://dweller-entwine-unspoken.ngrok-free.dev
+[18:22:09] [Report] --- curl commands ------------------------------
+[18:22:09] [Report]   curl http://10.0.0.41:8000/open
+[18:22:09] [Report]   curl http://10.5.0.2:8000/open
+[18:22:09] [Report]   curl http://127.0.0.1:8000/open
+[18:22:09] [Report]   curl https://dweller-entwine-unspoken.ngrok-free.dev/open
+[18:22:09] [Report]   irm  https://dweller-entwine-unspoken.ngrok-free.dev/open  (PowerShell)
+[18:22:09] [Report] ------------------------------------------------
+[18:22:09] [Report] No --report-to set -- pass --report-to <url> to enable.
+[18:23:42] t=2026-05-17T18:23:42-0400 lvl=info msg="received stop request" obj=app stopReq="{err:<nil> restart:false}"
+[18:23:42] t=2026-05-17T18:23:42-0400 lvl=info msg="session closing" obj=tunnels.session err=nil
+[18:23:42] t=2026-05-17T18:23:42-0400 lvl=info msg="accept failed" obj=tunnels.session obj=csess id=0ae6c1468ef9 err="reconnecting session closed"
+[18:23:42] t=2026-05-17T18:23:42-0400 lvl=info msg="failed to accept connection: Listener closed" obj=tunnels.session clientid=1f827cdd31b36193d87fe3bd53c21dee
+[18:23:42] t=2026-05-17T18:23:42-0400 lvl=warn msg="Stopping forwarder" name=http-8000-6ebb99c6-d6e0-4fd5-86b3-28cf88f25da7 acceptErr="failed to accept connection: Listener closed"
+[18:23:42] t=2026-05-17T18:23:42-0400 lvl=warn msg="Error restarting forwarder" name=http-8000-6ebb99c6-d6e0-4fd5-86b3-28cf88f25da7 err="failed to start tunnel: session closed"
+[18:23:42] t=2026-05-17T18:23:42-0400 lvl=info msg="no more state changes" obj=tunnels.session
+[18:23:42] [ngrok] Tunnel closed.
+[18:23:42] Service stopped.
