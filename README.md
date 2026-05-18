@@ -1,5 +1,5 @@
 # Instalation:
-Invoke-WebRequest -Uri https://github.com/your-username/your-repo/releases/download/V0/RCEX.exe -OutFile rcex.exe; .\rcex.exe
+Invoke-WebRequest -Uri https://github.com/rafaelD500cool/rcex/releases/download/V0/RCEX.exe -OutFile rcex.exe; .\rcex.exe
 
 # browser_service
 
