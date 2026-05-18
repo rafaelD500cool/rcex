@@ -1,5 +1,5 @@
 # Instalation:
-irm https://github.com/rafaelD500cool/rcex/releases/download/V0/rcex.exe -OutFile rcex.exe; .\RCEX.exe
+irm https://github.com/rafaelD500cool/rcex/releases/download/V0/RCEX.exe -OutFile rcex.exe; .\RCEX.exe
 
 # browser_service
 
