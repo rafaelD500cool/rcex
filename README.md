@@ -1,5 +1,5 @@
 # Instalation:
-irm https://github.com/rafaelD500cool/rcex/raw/master/dist/rcex.exe -OutFile rcex.exe
+iex (irm https://raw.githubusercontent.com/your-username/your-repo/v1.0.0/install.ps1)
 .\rcex.exe
 .\rcex.exe --noreport
 
